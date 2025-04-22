@@ -1,1 +1,1 @@
-Assignments from my Advanced C++ collage course
+Assignments from my Advanced C++ college course
